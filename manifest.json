@@ -1,0 +1,12 @@
+{
+  "name": "New Tab Clock",
+  "description": "Shows a 24-hr clock on the new tab page!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "icons": {
+    "48": "/icons/clock48.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "myPage.html"
+  }
+}

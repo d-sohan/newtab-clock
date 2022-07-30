@@ -1,0 +1,11 @@
+#clockDisplay {
+  color: rgb(0, 238, 255);
+  font-family: 'Orbitron', sans-serif;
+  font-size: 70px;
+  margin-left: 40%;
+  margin-top: 50px;
+}
+
+body {
+  background-color: #272727;
+}
